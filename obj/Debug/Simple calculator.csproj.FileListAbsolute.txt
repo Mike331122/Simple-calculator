@@ -1,0 +1,7 @@
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\bin\Debug\Simple calculator.exe.config
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\bin\Debug\Simple calculator.exe
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\bin\Debug\Simple calculator.pdb
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\obj\Debug\Simple calculator.csproj.AssemblyReference.cache
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\obj\Debug\Simple calculator.csproj.CoreCompileInputs.cache
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\obj\Debug\Simple calculator.exe
+D:\Projekty\VisualStudio\Kalkulator\Simple calculator\obj\Debug\Simple calculator.pdb
